@@ -1,4 +1,4 @@
-<center><a href="https://github.com/rafhaprates"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deno.svg/1200px-Deno.svg.png" title="githubRafha" alt="GithubRafha"></a></center>
+<center><a href="https://github.com/rafhaprates"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deno.svg/1200px-Deno.svg.png" width="200" height="200" title="githubRafha" alt="GithubRafha"></a></center>
 
 # Stack Deno
 
@@ -7,6 +7,9 @@
 > I liked the ideia
 
 > I'm studying about
+
+
+
 
 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)]
@@ -20,7 +23,7 @@
 
 ## Table of Contents 
 
-- [Installation](#installation))
+- [Installation](#installation)
 - [License](#license)
 
 
