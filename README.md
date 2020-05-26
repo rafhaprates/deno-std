@@ -1,4 +1,4 @@
-<center><a href="https://github.com/rafhaprates"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deno.svg/1200px-Deno.svg.png" width="200" height="200" title="githubRafha" alt="GithubRafha"></a></center>
+<p align="center"><a href="https://github.com/rafhaprates"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deno.svg/1200px-Deno.svg.png" width="300" height="300" title="githubRafha" alt="GithubRafha"></a></p>
 
 # Stack Deno
 
